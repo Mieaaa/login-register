@@ -1,0 +1,14 @@
+body {
+	background: #eee !important;	
+}
+
+.h1{
+    border-radius: 25px;
+    border: 2px solid #ECECEC;
+    color:#383838;
+    background-color: #ECECEC;
+    padding: 5px; 
+    width: 280px;
+    height: flex;
+    font-size: 15px;
+}

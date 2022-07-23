@@ -1,0 +1,122 @@
+body {
+	background: #eee !important;	
+}
+
+.container {	
+	margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.col{
+  max-width: 380px;
+  padding: 100px 35px 0px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1); 
+
+}
+
+
+.alert {
+    border-radius: 25px;
+    border: 2px solid #ECECEC;
+    color:#383838;
+    background-color: #ECECEC;
+    padding: 5px; 
+    width: 280px;
+    height: flex;
+
+  }
+
+
+.form-register{
+  max-width: 380px;
+  padding: 100px 35px 45px;
+  position: relative;
+  left: 0px;
+  top: -160px;
+ 
+}
+
+.text-center{
+    margin-bottom: 10px;
+}
+
+.text-center{
+    font-size:35px;
+    font-weight: bold; 
+}
+
+
+.form-group {
+position: relative;
+font-size: 30px;
+height: auto;
+padding: 20px;
+}
+
+
+input[type="text"] {
+    border: 0;
+    border-bottom: 2.5px solid black; 
+    outline: none;
+    font-size: 20px;
+    margin-bottom: -1px;
+
+} 
+
+input[type="password"] {  
+    border: 0;
+    border-bottom: 2.5px solid black;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+input[type="password"] {  
+    border: 0;
+    border-bottom: 2.5px solid black;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 0px;
+
+}
+
+input[type="email"] {  
+    border: 0;
+    border-bottom: 2.5px solid black;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 0px;
+
+}
+
+.btn-register{
+    position: relative;
+    background-color:white;
+    font-size: 18px;
+    height: auto;
+    padding: 10px;
+    width: 245px;
+    float: left;
+    left: 25px;
+    top: 0px;
+}
+
+.btn-register:hover{
+    background-color:#ECECEC;
+}
+
+
+.text-login{
+    position: relative;
+    font-size: 18px;
+    color: #383838;
+    height: auto;
+    padding: 10px;
+    left: 0px;
+    top: 100px;
+}
+
